@@ -1,4 +1,4 @@
-<h1>Welcome to my GitHub 👋</h1>
+<h1>Hi, I'm Katarzyna! Thanks for stopping by! 👋</h1>
 
 <!--
 **Katarzyna-SZ/Katarzyna-SZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
